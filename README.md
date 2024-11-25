@@ -1,4 +1,6 @@
-# transaction-parser-v2
+# instruction-parser
+
+Query transaction history and parse instruction data for ant-sybill purposes
 
 To install dependencies:
 
